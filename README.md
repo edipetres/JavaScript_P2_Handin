@@ -1,5 +1,12 @@
 # JavaScript Period 2 Hand-in
 
+Four exercises can be found in this document, namely:
+
+From almost zero to start: express-ZeroToStart
+Exercises on day 1: express-exercise1
+Exercises express-exercise2-pug
+
+
 
 > Why would you consider a Scripting Language as JavaScript as your Backend Platform.  
 

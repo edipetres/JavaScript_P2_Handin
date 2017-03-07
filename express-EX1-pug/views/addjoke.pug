@@ -1,0 +1,12 @@
+h1 Add a new joke here
+
+block content
+    h1= title
+    form(name="add-estimation", action='/storejoke', method="post")
+        div.input
+            span.label Add joke: 
+            input(type="text", name="newjoke")
+        div.actions
+            input(type="submit", value="Submit")
+
+b /addjoke.pug
