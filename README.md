@@ -1,5 +1,5 @@
 # JavaScript Period 2 Hand-in
-#javascript/express #hand-in
+
 
 > Why would you consider a Scripting Language as JavaScript as your Backend Platform.  
 
