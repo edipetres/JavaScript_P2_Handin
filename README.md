@@ -6,10 +6,9 @@
 2. **Exercises Day1:** 
   * express-EX1.1-api_calc and 
   * express-EX1.1-pug
-3. **Express app on Digital Ocean: *
-  [Github](https://github.com/edipetres/FirstAppOnDO)
-  
-  [Droplet](http://139.59.128.94)
+3. **Express app on Digital Ocean: **
+ 1.[Github](https://github.com/edipetres/FirstAppOnDO)
+ 2.[Droplet](http://139.59.128.94)
 
 
 
