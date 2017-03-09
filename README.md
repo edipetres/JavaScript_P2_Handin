@@ -7,8 +7,8 @@
   * express-EX1.1-api_calc/ and 
   * express-EX1.1-pug/
 3. __Express app on Digital Ocean:__
- 1.[Github](https://github.com/edipetres/FirstAppOnDO)
- 2.[Droplet](http://139.59.128.94)
+  1.[Github](https://github.com/edipetres/FirstAppOnDO)
+  2.[Droplet](http://139.59.128.94)
 
 
 
