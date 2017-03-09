@@ -2,12 +2,14 @@
 
 ## Four exercises can be found in this document, namely: ##
 1. **From almost zero to start:** 
-* express-ZeroToStart
+  * express-ZeroToStart
 2. **Exercises Day1:** 
-* express-EX1.1-api_calc and 
-* express-EX1.1-pug
+  * express-EX1.1-api_calc and 
+  * express-EX1.1-pug
 3. **Express app on Digital Ocean: *
-https://github.com/edipetres/FirstAppOnDO
+  [Github](https://github.com/edipetres/FirstAppOnDO)
+  
+  [Droplet](http://139.59.128.94)
 
 
 
