@@ -1,12 +1,12 @@
 # JavaScript Period 2 Hand-in #
 
-## Four exercises can be found in this document, namely: ##
+## The exercises can be found in this document, namely: ##
 1. **From almost zero to start:** 
-  * express-ZeroToStart
+  * express-ZeroToStart/
 2. **Exercises Day1:** 
-  * express-EX1.1-api_calc and 
-  * express-EX1.1-pug
-3. **Express app on Digital Ocean: **
+  * express-EX1.1-api_calc/ and 
+  * express-EX1.1-pug/
+3. __Express app on Digital Ocean:__
  1.[Github](https://github.com/edipetres/FirstAppOnDO)
  2.[Droplet](http://139.59.128.94)
 
