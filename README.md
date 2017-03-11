@@ -6,7 +6,7 @@
 3. __Deployment to Digital Ocean:__
 	* [Github repo](https://github.com/edipetres/FirstAppOnDO)
 	* [Droplet](http://139.59.128.94/)
-4. __Testing__(partial): _express-testing/_
+4. __Testing__(partial): _testing-mocha_chai/_
 
 
 ## Learning goals
