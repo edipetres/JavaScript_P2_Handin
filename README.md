@@ -1,18 +1,4 @@
-<<<<<<< HEAD
 # JavaScript Period 2 Hand-in
-=======
-# JavaScript Period 2 Hand-in #
-
-## The exercises can be found in this document, namely: ##
-1. **From almost zero to start:** 
-  * express-ZeroToStart/
-2. **Exercises Day1:** 
-  * express-EX1.1-api_calc/ and 
-  * express-EX1.1-pug/
-3. __Express app on Digital Ocean:__
-  1.[Github](https://github.com/edipetres/FirstAppOnDO)
-  2.[Droplet](http://139.59.128.94)
->>>>>>> f72358055d7a6f5827a49883436fcec825b195ec
 
 ## The following exercises can be found in this repository:
 1. __From almost zero to start:__ _express-ZeroToStart/_
@@ -42,24 +28,3 @@
 > Explain, using relevant examples, about testing JavaScript code, relevant packages (Mocha etc.) and how to test asynchronous code.  
 
 > Explain, using relevant examples, different ways to mock out databases, HTTP-request etc.  
-<<<<<<< HEAD
-=======
-
-
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
-
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
-
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
-
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
->>>>>>> f72358055d7a6f5827a49883436fcec825b195ec
